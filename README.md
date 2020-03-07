@@ -19,4 +19,4 @@ Game Rules:
 
 Screen shot of game:
 
-![](C:\Users\Ming\source\repos\Snake\images\Snake.JPG)
+![](.\images\Snake.JPG)
