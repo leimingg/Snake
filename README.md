@@ -19,4 +19,4 @@ Game Rules:
 
 Screen shot of game:
 
-![](.\images\Snake.JPG)
+![image](https://github.com/leimingg/Snake/blob/master/images/Snake.JPG)
